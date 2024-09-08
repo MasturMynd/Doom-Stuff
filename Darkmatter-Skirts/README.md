@@ -8,4 +8,4 @@ The enthusiasm behind these skirts intended for the Doom Voron V2 (250, 300 and 
 ![top_corner](Images/top_corner.png)
 
 Completed installation image courtesy of my good friend tæ
-![doom_tae](Images/doom_tae.png)
+![doom_tae](Images/doom_tae.jpg)
